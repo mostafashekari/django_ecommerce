@@ -12,6 +12,6 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
 9. 
 10.```sh
 11. python manage.py runserver
-12.```sh
+12.```
 13. to start a localhost server for the app.
 14. The API is started and now you can use the API routes to give requests.
