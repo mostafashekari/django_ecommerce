@@ -7,6 +7,11 @@ Enter the following command in the terminal to install the required items:
 ```sh
 pip install -r requirements.txt
 ```
+
+```sh
+pip install wheel
+```
+
 Enter the following command to start the project
 ```sh
 python manage.py runserver
