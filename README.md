@@ -4,14 +4,12 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
 1. Clone this repository into a folder on your computer
 2. Download Python
 3. Enter the following command in the terminal to install the required items:
-4. 
-5.```sh
-6. pip install -r requirements.txt
-7.```
+```sh
+pip install -r requirements.txt
+```
 8. Enter the following command to start the project
-9. 
-10.```sh
-11. python manage.py runserver
-12.```
+```sh
+python manage.py runserver
+```
 13. to start a localhost server for the app.
 14. The API is started and now you can use the API routes to give requests.
